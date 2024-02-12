@@ -1,0 +1,36 @@
+---- Notas ----
+
+Notas:
+    El contenido es el mismo que se realizo en la carpeta "seccion-03-javascript-repaso-opcional"
+    de la carpeta "master-frameworks-javascript"
+    del curso de Udemy "Master en Frameworks JavaScript: Aprende Angular, React, Vue"
+
+20. Instalar React y crear el primero proyecto
+    Documentacion:
+        - https://es.react.dev/ ----> Pagina de React en Español
+        - https://es.legacy.reactjs.org/ ----> Pagina de React en Español
+        - https://create-react-app.dev/ ----> Pagina de create-react-app
+
+    Instalacion:
+        - npx create-react-app 01-primeros-pasos ----> Crear el proyecto de React sin instalar "create-react-app"
+        - cd 01-primeros-pasos
+        - npm start
+
+    Eliminamos:
+		- src/reportWebVitals.js
+		- src/setupTests.js
+
+	Eliminamos el modo estricto de React:
+		<React.StrictMode>
+			<App />
+		</React.StrictMode>
+
+	Crear componente en React:
+		- Crear fichero MiComponente.js
+		- Escribir rafc (React Arrow Function Component)
+
+21. Plugin para navegadores
+    - React Developer Tools
+
+27. Interpolar variables, condicionales y bucles en JSX
+    - rafc ----> Snippet de la extension instalada en VSCode "Extensión: ES7 + React/Redux/React-Native snippets" ---> Componente de Funcion de Flecha en React
