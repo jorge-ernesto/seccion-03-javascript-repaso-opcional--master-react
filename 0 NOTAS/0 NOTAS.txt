@@ -1,0 +1,6 @@
+---- Notas ----
+
+Notas:
+    El contenido es el mismo que se realizo en la carpeta "seccion-03-javascript-repaso-opcional--master-frameworks-javascript"
+    de la carpeta "master-frameworks-javascript"
+    del curso de Udemy "Master en Frameworks JavaScript: Aprende Angular, React, Vue"
